@@ -1,0 +1,31 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+vendor/
+node_modules/
+
+# Uploads
+public/uploads/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.Thumbs.db
+
+# Cache
+.cache/
+__pycache__/
